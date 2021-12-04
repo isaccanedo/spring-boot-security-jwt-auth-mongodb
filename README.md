@@ -1,4 +1,4 @@
-# Spring Boot, Spring Security, MongoDB - JWT Authentication & Authorization example
+# Spring Boot, Spring Security, MongoDB - exemplo de autenticação e autorização JWT
 
 ## Run Spring Boot application
 ```
